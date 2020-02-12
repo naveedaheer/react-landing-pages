@@ -1,0 +1,41 @@
+.subscribe-area{
+    background-color: #fafafa ;
+    padding: 5%;
+}
+
+.subscribe-area-container{
+    text-align: left;
+}
+
+.Subscribe-email-text{
+    font-size: 24px;
+    color: #2B2B2B;
+    font-weight: bold;
+}
+
+.subscribe-desc-text{
+    color: #7F7F7F;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.subscribe-area-elements{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subscribe-area-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-width: 700px) {
+    .subscribe-area-elements{
+       flex-direction: column;
+    }
+    .subscribe-area-container{
+        text-align: center;
+    }
+}
