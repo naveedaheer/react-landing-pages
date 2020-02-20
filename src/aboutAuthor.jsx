@@ -17,7 +17,7 @@ class Aboutauthor extends Component {
                         </Col>
                         <Col className="text-left video-course-area">
                             <p className="fontColorBlack thin-long-text d-flex align-items-center">Video Course <div className="hor-sm-saparater d-flex justify-content-center align-items-center"></div><br /></p>
-                            <p className="author-name">The Basics of Video Editing></p>
+                            <p className="author-name">The Basics of Video Editing</p>
                             <p className="fontColorBlack authors-info-text">Few words about the author</p>
                             <p className="fontColorBlack authors-info-text">A supporting statement for your value preparation to encourage customer to encourage your CTA</p>
 
