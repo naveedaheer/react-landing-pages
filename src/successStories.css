@@ -16,7 +16,8 @@
 .success-story-img{
     width: 80px;
     height: 80px;
-    border-radius: 80/ 2
+    border-radius: 80/ 2;
+    box-shadow: 5px 3px 20px -1px rgba(0,0,0,0.37);
 }
 
 .success-story-column{
